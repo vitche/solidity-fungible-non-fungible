@@ -1,12 +1,12 @@
 # Claim: Fungible Equivalent for the Non-Fungible Token
 
-|                       | **TAGS**: BlockChain, NFT, fungible token, non-fungible token, ERC-20, ERC-721, Solidity, IP ownership, IP LEDGER    |
-|-----------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Authors**:          | Andrew Mikhailov ([andrew@ipledger.uk](andrew@ipledger.uk))                                                          |
-|                       | Natalia Riazanova ([nataliia.riazanova@ipledger.uk](nataliia.riazanova@ipledger.uk))                                 |
-| **Publication date**: | 17 March, 2023.                                                                                                      |
-| **PDF download**:     | [Fungible Equivalent for the Non-Fungible Token.pdf](./Fungible Equivalent for the Non-Fungible Token.pdf)           |
-| **Source code**:      | [FungibleNonFungible.sol](./contracts/FungibleNonFungible.sol)                                                       |
+|                       | **TAGS**: BlockChain, NFT, fungible token, non-fungible token, ERC-20, ERC-721, Solidity, IP ownership, IP LEDGER |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Authors**:          | Andrew Mikhailov ([andrew@ipledger.uk](mailto:andrew@ipledger.uk))                                                |
+|                       | Natalia Riazanova ([nataliia.riazanova@ipledger.uk](mailto:nataliia.riazanova@ipledger.uk))                       |
+| **Publication date**: | 17 March, 2023.                                                                                                   |
+| **PDF download**:     | [Fungible Equivalent for the Non-Fungible Token.pdf](./Fungible Equivalent for the Non-Fungible Token.pdf)        |
+| **Source code**:      | [FungibleNonFungible.sol](./contracts/FungibleNonFungible.sol)                                                    |
 
 ## Description: Combining fungible and non-fungible token standards to build a fungible equivalent for the non-fungible token
 An important technical flow is of providing the ability to collectively possess and control the non-fungible token record.
