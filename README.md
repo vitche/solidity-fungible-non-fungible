@@ -5,7 +5,7 @@
 | **Authors**:          | Andrew Mikhailov ([andrew@ipledger.uk](mailto:andrew@ipledger.uk))                                                |
 |                       | Natalia Riazanova ([nataliia.riazanova@ipledger.uk](mailto:nataliia.riazanova@ipledger.uk))                       |
 | **Publication date**: | 17 March, 2023.                                                                                                   |
-| **PDF download**:     | [Fungible Equivalent for the Non-Fungible Token.pdf](https://github.com/ipledger/solidity-fungible-non-fungible/Fungible%20Equivalent%20for%20the%20Non-Fungible%20Token.pdf)        |
+| **PDF download**:     | [Fungible Equivalent for the Non-Fungible Token.pdf](https://github.com/ipledger/solidity-fungible-non-fungible/blob/main/Fungible%20Equivalent%20for%20the%20Non-Fungible%20Token.pdf)        |
 | **Source code**:      | [FungibleNonFungible.sol](./contracts/FungibleNonFungible.sol)                                                    |
 
 ## Description: Combining fungible and non-fungible token standards to build a fungible equivalent for the non-fungible token
