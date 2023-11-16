@@ -2,8 +2,8 @@
 
 |                       | **TAGS**: BlockChain, NFT, fungible token, non-fungible token, ERC-20, ERC-721, Solidity, IP ownership, IP LEDGER                                                                       |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Authors**:          | Andrew Mikhailov ([andrew@ipledger.uk](mailto:andrew@ipledger.uk))                                                                                                                      |
-|                       | Natalia Riazanova ([nataliia.riazanova@ipledger.uk](mailto:nataliia.riazanova@ipledger.uk))                                                                                             |
+| **Authors**:          | Andrew Mikhailov ([andrew@ipledger.uk](mailto:andrew@ipnft.uk))                                                                                                                         |
+|                       | Natalia Riazanova ([nataliia.riazanova@ipledger.uk](mailto:nataliia.riazanova@ipnft.uk))                                                                                                |
 | **Publication date**: | 17 March, 2023.                                                                                                                                                                         |
 | **PDF download**:     | [Fungible Equivalent for the Non-Fungible Token.pdf](https://github.com/ipledger/solidity-fungible-non-fungible/blob/main/Fungible%20Equivalent%20for%20the%20Non-Fungible%20Token.pdf) |
 | **Source code**:      | [FungibleNonFungible.sol](./contracts/FungibleNonFungible.sol)                                                                                                                          |
@@ -76,3 +76,8 @@ The technical / practical implications of our work is that
 the technical flow described affects any actions related to non-fungible token operations in the real world.
 
 It's important to note that while NFTs have gained popularity as a means of representing ownership or control rights over non-fungible objects, they are still a relatively new and rapidly evolving technology. The legal and practical implications of NFT ownership and transfer are still being worked out, and it is important for individuals involved in NFT transactions to seek legal advice and guidance to ensure that their rights are protected.
+
+## Examples
+Practical business examples / use-cases can be found at:
+
+[IP NFT Fungible-non-Fungible use cases](./documentation/examples.md)
