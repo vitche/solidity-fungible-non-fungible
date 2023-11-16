@@ -36,12 +36,23 @@ The FungibleNonFungible contract allows creating a fungible ERC20 token that rep
 
 5. The company can use voting mechanisms built on the tokens to allow collective control of the IP by shareholders.
 
+
+## Startup's distributed equity
+
+1. A startup company mints an NFT to represent their portfolio of intellectual property assets.
+
+2. They transfer the NFT to a FungibleNonFungible contract and mint equity tokens.
+
+3. The equity tokens are sold to investors to raise funds for the startup. Each token represents fractional ownership of the underlying IP portfolio NFT.
+
+4. As the startup grows, the value of the IP assets increases, increasing the value of the equity tokens.
+
+5. The equity tokens can be freely traded by investors, enabling liquidity while maintaining collective ownership of the core IP assets.
+
+
 ## Redeeming fractional tokens for sole ownership
 
 1. After a period of shared ownership, one fractional token holder buys out all the other holders.
 
 2. Because they now own 100% of the tokens, they can use `restoreOwnership` to transfer the NFT back to their sole control and burn the fractional token contract.
 
----
-
-This demonstrates a few ways that the FungibleNonFungible contract enables new applications and business models using fractional NFT ownership and fungible tokens.
