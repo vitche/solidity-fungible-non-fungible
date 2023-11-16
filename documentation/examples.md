@@ -49,6 +49,25 @@ The FungibleNonFungible contract allows creating a fungible ERC20 token that rep
 
 5. The equity tokens can be freely traded by investors, enabling liquidity while maintaining collective ownership of the core IP assets.
 
+## Issuing licenses for IP assets
+
+1. A company mints an NFT representing ownership of an intellectual property asset, like a patent.
+
+2. It transfers the NFT to a FungibleNonFungible contract and mints tokens.
+
+3. The company can now issue licenses to use the IP asset to other parties by minting new tokens and transferring them.
+
+4. For an exclusive license, the company mints and transfers a portion of the total tokens, for example 50%. The licensee now owns 50% of the fractional NFT.
+
+5. For a non-exclusive license, the company mints a small number of tokens, for example 1%, and transfers them to the licensee.
+
+6. The company can issue multiple non-exclusive licenses by minting and transferring more tokens. No single licensee ever owns a majority of tokens.
+
+7. If an exclusive license expires, the company can burn the licensee's tokens to revoke the license. For non-exclusive licenses, the company can simply let the tokens remain.
+
+8. The fungible tokens enable liquid secondary markets for the licenses. Licensees can freely trade their tokens.
+
+9. If the company sells all its tokens, it transfers full ownership and control of the IP asset. If not, it maintains overall ownership and ability to manage licensing.
 
 ## Redeeming fractional tokens for sole ownership
 
