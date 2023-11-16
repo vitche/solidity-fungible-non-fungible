@@ -1,9 +1,9 @@
 # Claim: Fungible Equivalent for the Non-Fungible Token
 
-|                       | **TAGS**: BlockChain, NFT, fungible token, non-fungible token, ERC-20, ERC-721, Solidity, IP ownership, IP LEDGER                                                                       |
+|                       | **TAGS**: BlockChain, NFT, fungible token, non-fungible token, ERC-20, ERC-721, Solidity, IP ownership, IP LEDGER, IP NFT                                                               |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Authors**:          | Andrew Mikhailov ([andrew@ipledger.uk](mailto:andrew@ipnft.uk))                                                                                                                         |
-|                       | Natalia Riazanova ([nataliia.riazanova@ipledger.uk](mailto:nataliia.riazanova@ipnft.uk))                                                                                                |
+| **Authors**:          | Andrew Mikhailov ([andrew@ipnft.uk](mailto:andrew@ipnft.uk))                                                                                                                            |
+|                       | Natalia Riazanova ([nataliia.riazanova@ipnft.uk](mailto:nataliia.riazanova@ipnft.uk))                                                                                                   |
 | **Publication date**: | 17 March, 2023.                                                                                                                                                                         |
 | **PDF download**:     | [Fungible Equivalent for the Non-Fungible Token.pdf](https://github.com/ipledger/solidity-fungible-non-fungible/blob/main/Fungible%20Equivalent%20for%20the%20Non-Fungible%20Token.pdf) |
 | **Source code**:      | [FungibleNonFungible.sol](./contracts/FungibleNonFungible.sol)                                                                                                                          |

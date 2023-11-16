@@ -1,5 +1,11 @@
 # Examples for using FungibleNonFungible
 
+|                       | **TAGS**: BlockChain, NFT, fungible token, non-fungible token, ERC-20, ERC-721, Solidity, IP ownership, IP LEDGER, IP NFT |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Authors**:          | Andrew Mikhailov ([andrew@ipnft.uk](mailto:andrew@ipnft.uk), Telegram: [@god_of_ai](https://t.me/god_of_ai))              |
+| **Publication date**: | 16 November, 2023.                                                                                                        |
+
+
 The FungibleNonFungible contract allows creating a fungible ERC20 token that represents collective ownership of an underlying non-fungible ERC721 token. This enables new use cases like:
 
 ## Selling fractional ownership of an NFT
