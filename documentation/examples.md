@@ -24,7 +24,7 @@ The FungibleNonFungible contract allows creating a fungible ERC20 token that rep
 
 4. Once Bob raises enough funds, he uses the contract to purchase the NFT. The NFT is now collectively owned by all the fractional token holders.
 
-## Managing shared ownership of an NFT
+## Managing shared IP ownership
 
 1. A company mints an NFT representing ownership of an intellectual property asset.
 
